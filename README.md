@@ -1,7 +1,7 @@
 # PString
 Implementation in Assembly of Pstring data structure (Pascal String) and multiple functions. 
 
-# C code representation
+## C code representation
 ```
 typedef struct {
 	char len;
